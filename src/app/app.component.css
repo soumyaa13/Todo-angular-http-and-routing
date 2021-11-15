@@ -1,0 +1,23 @@
+h1 {
+  text-align: left;
+  color: #506d84;
+}
+h2 {
+  color: #3e065f;
+}
+
+.button1 {
+  font-size: 26px;
+  width: 33%;
+  background-color: #e4d8dc;
+}
+.button2 {
+  font-size: 26px;
+  width: 33%;
+  background-color: #e4d8dc;
+}
+.button3 {
+  font-size: 26px;
+  width: 34%;
+  background-color: #e4d8dc;
+}

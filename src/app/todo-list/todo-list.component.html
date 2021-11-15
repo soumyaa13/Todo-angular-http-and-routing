@@ -1,0 +1,8 @@
+<div class="headings">List of tasks to be done</div>
+<mat-selection-list #list1>
+  <mat-list-option *ngFor="let item of todoDetails">
+    {{ item.Description }}
+  </mat-list-option>
+</mat-selection-list>
+
+<p>Number of taks completed: {{ list1.selectedOptions.selected.length }}</p>

@@ -1,0 +1,15 @@
+li {
+  color: black;
+  font-size: large;
+}
+.headings {
+  color: #3e065f;
+  font-size: 20px;
+  margin-top: 2%;
+  font-weight: bold;
+}
+
+p {
+  font-size: medium;
+  margin-top: 1%;
+}

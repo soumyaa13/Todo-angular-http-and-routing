@@ -1,0 +1,20 @@
+.headings {
+  color: #3e065f;
+  font-size: 20px;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  font-weight: bold;
+}
+table {
+  width: 100%;
+  color: black;
+  border-color: #11324d;
+  border-width: 2px;
+  font-size: larger;
+}
+
+.title {
+  font-size: large;
+  color: #3e065f;
+  font-weight: bold;
+}
